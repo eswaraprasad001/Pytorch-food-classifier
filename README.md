@@ -1,0 +1,1 @@
+# Pytorch-food-classifier
